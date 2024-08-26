@@ -1,0 +1,8 @@
+{
+  "containerGroupName": {
+    "value": "my-nginx-container-group"
+  },
+  "location": {
+    "value": "East US 2"
+  }
+}
